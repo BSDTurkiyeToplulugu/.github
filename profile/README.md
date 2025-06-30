@@ -2,6 +2,18 @@
 
 BSD Türkiye Topluluğu BSD sistemlerine ilgi duyan tüm kullanıcılar, geliştiriciler ve sistem yöneticileri içindir.
 
+* https://source.masscollabs.xyz/BSDTurkiyeToplulugu 
+
+* https://codeberg.org/BSDTurkiyeToplulugu 
+
+* https://git.disroot.org/BSDTurkiyeToplulugu
+
+* https://sr.ht/~mertgor/BSDTurkiyeToplulugu/
+
+* https://gitlab.com/bsdturkiyetoplulugu
+
+* https://github.com/BSDTurkiyeToplulugu
+
 # License
 
 BSD 3-Clause License
